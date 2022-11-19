@@ -2,9 +2,9 @@
 
 Sumari: 
 
-- [Preparació teòrica](## PREPARACIÓ TEÒRICA)
+- [Preparació teòrica](# PREPARACIÓ TEÒRICA)
 
-- [Tasca S1. HTML i CSS](## TASCA S1. HTML i CSS.)
+- [Tasca S1. HTML i CSS](# TASCA S1. HTML i CSS.)
 
 ---------------------------------------
 
@@ -269,8 +269,6 @@ Ho podràs obtenir fàcilment. Has d'anar a la pàgina principal del teu reposit
 Aquest material
 
 **->[CSS Media Queries for Desktop, Tablet, Mobile. · GitHub](https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488)
-
-
 
 -----------------------------------------------
 
